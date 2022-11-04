@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.gov.br/inpe/pt-br'>National Institute for Space Research (INPE)</a>. Sao Paulo, Brazil.
 
 profile:
   align: right
