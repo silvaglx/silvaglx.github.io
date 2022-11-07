@@ -19,4 +19,4 @@ Graduated in Oceanography from the Oceanographic Institute of the University of 
 
 For more information about my academic profile, please check my <a href='https://silvaglx.github.io/publications/'>publications</a> in peer reviewed journals, <a href='https://silvaglx.github.io/projects/'>scientific projects</a> and <a href='https://silvaglx.github.io/cv/'>curriculum vitae</a>.
 
-Feel free to check my <a href='https://sayadennis.github.io/blog/'>personal blog</a> also.
+Feel free to check my <a href='https://silvaglx.github.io/blog/'>personal blog</a> also.
