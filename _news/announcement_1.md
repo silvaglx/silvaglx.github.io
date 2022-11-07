@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-07-29 18:30:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Defended my Master's thesis entitled "Connectivity patterns of Brazilian coral reefs associated with satellite estimated thermal stress". Officially a MSc. in Remote Sensing :sparkles: :smile:
