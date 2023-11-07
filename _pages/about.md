@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant in the <a href='https://www.gov.br/inpe/pt-br'>National Institute for Space Research (INPE)</a>. Sao Paulo, Brazil.
+subtitle: Research Student at the <a href='https://www.titech.ac.jp/english'>Tokyo Institute of Technology</a>. Tokyo, Japan.
 
 profile:
   align: right
