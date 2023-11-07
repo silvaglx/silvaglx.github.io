@@ -6,7 +6,7 @@ subtitle: Research Student at the <a href='https://www.titech.ac.jp/english'>Tok
 
 profile:
   align: right
-  image: img.jpg
+  image: ilhas.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
