@@ -1,7 +1,8 @@
 ---
 layout: page
 title: kamakura
-description: roundtrip to kamakura and enoshima island with nihongo class [31.05.2023]
+date: 31-05-23
+description: roundtrip to kamakura and enoshima island with nihongo class
 img: assets/img/enoshima/000010.JPG
 importance: 1
 category: work
@@ -73,6 +74,6 @@ Here's the code for the last row of images above:
 </div>
 
 The below pictures were not analog but I do like them a lot! They were taken while climbing up to Enoshima shrine.
- 
+
 ```
 {% endraw %}
