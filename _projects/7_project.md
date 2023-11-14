@@ -2,7 +2,7 @@
 layout: page
 title: enoshima
 description: roundtrip to enoshima on 31.05.2023
-img: assets/img/enoshima/000010.jpg
+img: assets/img/enoshima/000010.JPG
 importance: 1
 category: work
 ---
