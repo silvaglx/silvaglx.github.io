@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kamakura
-description: roundtrip to kamakura and enoshima island with nihongo class on 31.31.2023
+description: roundtrip to kamakura and enoshima island with nihongo class [31.05.2023]
 img: assets/img/enoshima/000010.JPG
 importance: 1
 category: work
