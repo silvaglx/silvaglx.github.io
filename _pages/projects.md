@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: hobby
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: miscellaneous collection from some of my hobbies.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [film photography, writing]
 horizontal: false
 ---
 

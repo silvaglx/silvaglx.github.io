@@ -5,7 +5,7 @@ date: 2015-05-15 21:01:00
 description: roundtrip to kamakura and enoshima island with nihongo class [31.05.2023]
 img: assets/img/enoshima/000010.JPG
 importance: 1
-category: work
+category: film photography
 ---
 
 Every project has a beautiful feature showcase page.
