@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: enoshima
+description: roundtrip to enoshima on 31.05.2023
+img: assets/img/enoshima/000010.jpg
 importance: 1
 category: work
 ---
