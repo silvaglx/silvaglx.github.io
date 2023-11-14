@@ -18,10 +18,10 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.html path="assets/img/enoshima/000010.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/000009.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/enoshima/000009.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/000011.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/enoshima/000011.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -71,5 +71,8 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+The below pictures were not analog but I do like them a lot! They were taken while climbing up to Enoshima shrine.
+ 
 ```
 {% endraw %}
