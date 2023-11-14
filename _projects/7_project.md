@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kamakura
-date: 31-05-23
+date: 2023-31-05
 description: roundtrip to kamakura and enoshima island with nihongo class
 img: assets/img/enoshima/000010.JPG
 importance: 1
