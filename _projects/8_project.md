@@ -59,18 +59,18 @@ This Saturday I decided to visit Mount Mitake (御岳山) for appreciating Japan
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mitake/1113601_0015.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/mitake/1113601_0013.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/mitake/1113601_0014.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mitake/1113601_0015.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
 </div>
 
 <div class="caption">
-    At the Mt. Mitake village you could find a very nice view from Tokyo area. The path leading to the major hiking trails was a nice conifer vegetation scenary, where some beautiful momiji (栴) -- Japanese maple tree famous for its vibrant red color -- could be seen along the way.
+    At the Mt. Mitake village you could find a very nice view from Tokyo area. The path leading to the major hiking trails was a conifer vegetation scenary, where some beautiful momiji (栴) -- Japanese maple tree famous for its vibrant red color -- could be seen along the way.
 </div>
 
 
