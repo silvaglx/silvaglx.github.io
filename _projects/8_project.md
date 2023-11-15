@@ -3,12 +3,12 @@ layout: page
 title: mt. mitake
 #date: 2023-31-05
 description: solo hiking at mt. mitake and Japan autumn colors [11.11.2023]
-img: assets/img/mitake/1113601_0019.JPG
+img: assets/img/mitake/1113601_0016.JPG
 importance: 98
 category: film photography
 ---
 
-This Saturday I decided to visit Mount Mitake (御岳山) for appreciating Japan's autumn colors. Mt. Mitake is a famous hiking spot located in Okutama city, 2h away from Tokyo center by train. This year, due to El Niño influence causing an anomalous high temperature weather, the famous kōyō (紅葉) proccess was delayed. November 6th was recorded as the warmest autumn day in Japan since 1923. Many locals from famous kōyō sightseeings spots are describing how the colors this autumn are not that vibrant as it was supposed to when compared to previous years. Even so, the hike was very nice and I was able to spot many beautiful trees along the way. Here are some of my shoots taken with the film camera. Like always, still learning the best settings to improve the quaity of my shoots. At least, I'm glad this time I was able to slitghly avoid the bright overexposure effect that I was getting in previous shoots.
+This Saturday I decided to visit Mount Mitake (御岳山) for appreciating Japan autumn colors. Mt. Mitake is a famous hiking spot located in Okutama city, 2h away from Tokyo center by train. This year, due to El Niño influence causing an anomalous high temperature weather, the famous kōyō (紅葉) proccess was delayed. November 6th was recorded as the warmest autumn day in Japan since 1923. Many locals from famous kōyō sightseeings spots are describing how the colors this autumn are not that vibrant as it was supposed to be when compared to previous years. Even so, the hike was very nice and I was able to spot many beautiful trees along the way. Here are some of my shoots taken with the film camera. Like always, still learning the best settings to improve the quality of my shoots. At least, I'm glad this time I was able to slitghly avoid the bright overexposure effect that I was getting in previous shoots.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
