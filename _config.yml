@@ -70,15 +70,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: https://www.linkedin.com/in/glxsilva/ # your LinkedIn user name
-scholar_userid: https://scholar.google.com.br/citations?user=bCKekIsAAAAJ&hl=en-EN # your Google Scholar ID
+linkedin_username: glxsilva # your LinkedIn user name
+scholar_userid: bCKekIsAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Gabriel-Lucas-Xavier-Da-Silva # your profile on ResearchGate
+research_gate_profile: Gabriel-Lucas-Xavier-Da-Silva # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
