@@ -128,3 +128,5 @@ From Mt. Mitake the peak you can have a glimpsy of Okutama chain formations as w
 <div class="caption">
     To end today's record, here are the best momijis shoots that I took along the trail, together with the last pictures on the film roll. See ya!
 </div>
+
+[November 11th, 2023.]
