@@ -128,4 +128,9 @@ At the top of Mount Mitake you can have a glimpsy of Okutama chain formations as
 <div class="caption">
     To end today's record, here are the best momijis shoots that I took along the trail, together with the last pictures on the film roll. See ya!
 </div>
+
+
+The below pictures were not analog but I do like them a lot! They were taken while climbing up to Enoshima shrine.
+
+```
 {% endraw %}
