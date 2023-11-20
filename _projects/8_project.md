@@ -98,7 +98,7 @@ This Saturday I decided to visit Mount Mitake (御岳山) for appreciating Japan
 </div>
 
 <div class="caption">
-At the top of Mount Mitake you can have a glimpsy of Okutama chain formations as well as Kanto area. By taking the hiking trail starting from the village you could reach the Mitake Rock Garden (御岳岩石園), Ayahiro Falls (綾広の滝) and the Tengu-no-koshikake Cedar (天狗の腰掛け杉), which unfortunetely I didn't registered in film. 
+From Mt. Mitake the peak you can have a glimpsy of Okutama chain formations as well as Kanto area. By taking the hiking trail starting from the village you could reach the Mitake Rock Garden (御岳岩石園), Ayahiro Falls (綾広の滝) and the Tengu-no-koshikake Cedar (天狗の腰掛け杉), which unfortunetely I didn't registered in film. 
 </div>
 
 <div class="row">
