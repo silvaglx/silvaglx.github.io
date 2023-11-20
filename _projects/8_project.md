@@ -118,10 +118,10 @@ From Mt. Mitake the peak you can have a glimpsy of Okutama chain formations as w
         {% include figure.html path="assets/img/mitake/1113601_0031.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mitake/1113601_0035.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/mitake/1113601_0036.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/mitake/1113601_0036.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/mitake/1113601_0035.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
