@@ -28,6 +28,12 @@ papers in peer-reviewed journals
 .
 
 
+.
+
+
+.
+
+
 poster presentations in meetings and symposyums
 <div class="publications">
 
@@ -37,6 +43,12 @@ poster presentations in meetings and symposyums
 {% endfor %}
 
 </div>
+
+
+.
+
+
+.
 
 
 .
