@@ -18,6 +18,16 @@ papers in peer-reviewed journals
 
 </div>
 
+
 poster presentations in meetings and symposyums
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f presentations -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+
 
 others
