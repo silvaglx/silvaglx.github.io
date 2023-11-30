@@ -7,7 +7,7 @@ years: [2023,2022,2021,2020,2019]
 nav: true
 nav_order: 1
 ---
-publications in peer-reviewed journals
+papers in peer-reviewed journals
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -17,3 +17,7 @@ publications in peer-reviewed journals
 {% endfor %}
 
 </div>
+
+poster presentations in meetings and symposyums
+
+others
