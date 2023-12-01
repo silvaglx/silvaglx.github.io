@@ -34,7 +34,7 @@ nav_order: 1
 .
 
 
-↓ poster presentations in meetings and symposyums
+↓ presentations in meetings and symposiums
 <div class="publications">
 
 {%- for y in page.years %}
@@ -60,4 +60,4 @@ nav_order: 1
 .
 
 
-↓ others
+↓ thesis
