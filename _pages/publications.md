@@ -30,12 +30,6 @@ nav_order: 1
 .
 
 
-.
-
-
-.
-
-
 ↓ presentations in meetings and symposiums
 <div class="publications">
 
@@ -45,12 +39,6 @@ nav_order: 1
 {% endfor %}
 
 </div>
-
-
-.
-
-
-.
 
 
 .
