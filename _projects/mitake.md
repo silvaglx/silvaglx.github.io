@@ -2,7 +2,7 @@
 layout: page
 title: mt. mitake
 #date: 2023-31-05
-description: solo hiking at mt. mitake and Japan autumn colors [11.11.2023]
+description: hiking at mt. mitake and Japan autumn colors [11.11.2023]
 img: assets/img/mitake/1113601_0016.JPG
 importance: 98
 category: film photography
