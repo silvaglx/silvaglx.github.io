@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: brief description of my research interests and activities
+description: brief description of the main research topics I have worked so far
 nav: true
 nav_order: 2
 display_categories: [main, secondary]
