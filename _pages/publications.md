@@ -9,7 +9,8 @@ years_three: [2022]
 nav: true
 nav_order: 1
 ---
-↓ papers in peer-reviewed journals
+<!-- ↓ papers in peer-reviewed journals -->
+<h3 class="mt-4">papers in peer-reviewed journals</h3>
 <!-- _pages/publications.md -->
 <div class="publications">
 
@@ -30,7 +31,8 @@ nav_order: 1
 .
 
 
-↓ presentations in meetings and symposiums
+<!-- ↓ presentations in meetings and symposiums -->
+<h3 class="mt-4">presentations in meetings and symposiums</h3>
 <div class="publications">
 
 {%- for y in page.years_two %}
@@ -50,7 +52,8 @@ nav_order: 1
 .
 
 
-↓ thesis
+<!-- ↓ thesis -->
+<h3 class="mt-4">thesis</h3>
 <div class="publications">
 
 {%- for y in page.years_three %}
