@@ -1,10 +1,10 @@
 ---
 layout: page
 title: hobby
-permalink: /projects/
+permalink: /hobby/
 description: miscellaneous collection from some of my hobbies.
 nav: true
-nav_order: 2
+nav_order: 4
 display_categories: [film photography, writing]
 horizontal: false
 ---
