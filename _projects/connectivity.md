@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Connectivity modeling in coral reef ecosystems
 #date: 2023-31-05
 description: Despite being sessile
