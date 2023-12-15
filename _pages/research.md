@@ -30,7 +30,7 @@ horizontal: true
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-weight-light mt-2 mt-sm-0">.</h6>
+    <h6 class="font-weight-light mt-2 mt-sm-0">(building...)</h6>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ horizontal: true
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-weight-light mt-2 mt-sm-0">.</h6>
+    <h6 class="font-weight-light mt-2 mt-sm-0">(building...)</h6>
   </div>
 </div>
 
@@ -57,6 +57,6 @@ horizontal: true
       <div class="col-sm-2 text-left text-sm-right">
       </div>
     </div>
-    <h6 class="font-weight-light mt-2 mt-sm-0">.</h6>
+    <h6 class="font-weight-light mt-2 mt-sm-0">(building...)</h6>
   </div>
 </div>
