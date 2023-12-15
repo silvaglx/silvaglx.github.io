@@ -2,10 +2,10 @@
 layout: page
 title: research
 permalink: /research/
-description: research
+description: brief description of my research interests and activities
 nav: true
 nav_order: 2
-#display_categories: [film photography, writing]
+display_categories: [main, secondary]
 horizontal: true
 ---
 
