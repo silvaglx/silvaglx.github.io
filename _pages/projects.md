@@ -5,7 +5,7 @@ permalink: /hobby/
 description: miscellaneous collection from some of my hobbies.
 nav: true
 nav_order: 4
-display_categories: [film photography, writing]
+display_categories: [film photography, writing, others]
 horizontal: false
 ---
 

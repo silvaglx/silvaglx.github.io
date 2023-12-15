@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: brief description of the research topics I have worked so far
+description: brief description of the research topics I have worked on so far
 nav: true
 nav_order: 2
 horizontal: true
