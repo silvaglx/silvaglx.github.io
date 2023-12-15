@@ -1,58 +1,13 @@
 ---
 layout: page
-title: research
 permalink: /research/
+title: research
 description: brief description of the main research topics I have worked so far
 nav: true
-nav_order: 2
-display_categories: [main, secondary]
-horizontal: true
+nav_order: 5
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
-
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-1">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+- title: Connectivity modeling in coral reef ecosystems
+  type: list
+  contents: 
+  - Despite being sessile organisms in their adult phase, corals have a high dispersal capacity due to characteristics of their life cycle. During their reproduction phase, hundreds of larvae are released into the water column allowing its dispersion over large distances. These coral larvae are transported by ocean currents until they find a suitable habitat to settle or die. When larvae are successfully transported from one population to another, we have a process known as connectivity. Understanding the connectivity metrics of a coral reef ecosystem is essential for securing its conservation in the long term. The connectivity between coral populations can be estimated by several methods. In particular, I have expertise with the connectivity modeling approach by perfoming virtual simulations of coral larvae dispersal. These simulations can be held with the use of biophysical models that couples the ocean hydrodinamics with corals life-history traits.
