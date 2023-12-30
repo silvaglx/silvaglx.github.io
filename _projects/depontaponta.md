@@ -1,9 +1,9 @@
 ---
 layout: page
-#title: de ponta a ponta
+title: de ponta a ponta
 #date: 2023-31-05
-description: de ponta a ponta
-img: assets/img/writing/depontaaponta
+description:
+img: assets/img/writing/depontaaponta.png
 importance: 98
 category: writing
 ---
