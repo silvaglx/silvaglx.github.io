@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: history of publications and scientific production over the years
-years_one: [2022,2020]
+years_one: [2024,2022,2020]
 years_two: [2023,2022,2021,2019]
 years_three: [2022]
 nav: true
