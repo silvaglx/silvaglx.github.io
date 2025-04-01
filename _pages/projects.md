@@ -1,8 +1,8 @@
 ---
 layout: page
-title: hobby
-permalink: /hobby/
-description: miscellaneous collection from some of my hobbies.
+title: misc.
+permalink: /misc/
+description: a space for random thoughts, hobbies, and other non-academic things
 nav: true
 nav_order: 4
 display_categories: [film photography, writing, others]

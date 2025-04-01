@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: history of publications and scientific production over the years
+description: a history of my publications and scientific contributions over the years
 years_one: [2025,2024,2022,2020]
 years_two: [2025,2024,2023,2022,2021,2019]
 years_three: [2022]
