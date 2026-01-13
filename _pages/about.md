@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at the <a href='https://www.titech.ac.jp/english'>Institute of Science Tokyo</a>. Tokyo, Japan.
+subtitle: PhD candidate at the <a href='https://www.titech.ac.jp/english'>Institute of Science Tokyo</a>. Tokyo, Japan.
 
 profile:
   align: right
