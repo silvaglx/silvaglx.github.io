@@ -19,4 +19,4 @@ I am a marine scientist from Brazil, working on coastal ecosystems conservation 
 
 Graduated in Oceanography at the <a href='https://www.io.usp.br/'>University of Sao Paulo (USP)</a> and Master's in Remote Sensing from the <a href='https://www.gov.br/inpe/pt-br'>National Institute for Space Research (INPE)</a>, I had also worked with statistical analysis applied to stratigraphic records, and the influence of land-use change in water quality parameters. 
 
-You can read more about my projects in the <a href='https://silvaglx.github.io/research/'>research</a> tab. A selection of publications in peer-reviewed journals and meetings are also available <a href='https://silvaglx.github.io/publications/'>here</a>. Currently, I'm a PhD candidate at the Institute of Science Tokyo (東京科学大学) under the <a href='http://www.nakamulab.mei.titech.ac.jp/homepage_eng'>NakamuLab</a>.
+Currently, I'm a PhD candidate at the Institute of Science Tokyo (東京科学大学) under the <a href='http://www.nakamulab.mei.titech.ac.jp/homepage_eng'>NakamuLab</a>.
