@@ -1,10 +1,10 @@
 ---
 layout: page
-title: summer 24.25.26
+title: summertime
 #date: 2023-31-05
-description: a collection of some old photos from the past seasons
+description: a collection of some old photos from the past summers
 img: assets/img/summer_2025/0509809_0009.JPG
-importance: 98
+importance: 97
 category: film photography
 ---
 
@@ -16,7 +16,19 @@ category: film photography
         {% include figure.html path="assets/img/summer_2025/0509809_0012.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/summer_2025/0509809_0013.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/summer_2025/0509809_0011.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/summer_2025/0509809_0007.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/summer_2025/0509809_0032.JPG" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
